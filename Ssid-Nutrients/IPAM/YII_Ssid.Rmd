@@ -1,0 +1,124 @@
+---
+title: "Ssid_YII_Nutrients"
+author: "AnaPalacio"
+date: "Sep 26, 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE)
+```
+
+# General project set-up 
+
+```{r libraries, results="hide"}
+
+getwd()
+
+# Get all libraries and sources required to run the script
+
+library(dplyr)
+library(plyr)
+library(reshape2)
+library(ggplot2)
+
+# Import your data: 
+
+## Long format Acer YII
+Ssid.Tall<-read.csv("YII_long_2017-09-01.csv", header = TRUE)
+
+# Wide formating 
+Ssid.wide<- reshape(Ssid.Tall, idvar = "Core", timevar = "Time", direction = "wide")
+
+write.csv(Ssid.wide, file="YII_wide_2017-09-01.csv")
+```
+
+
+# YII over time by temperature
+
+```{r Graphs YII, echo =FALSE}
+
+YII<- ggplot(Ssid.Tall, aes (Colony, YII, colour=factor(Colony)))
+YII + stat_summary(fun.data = "mean_cl_boot",geom = "errorbar", width = 0.2)+
+  stat_summary(fun.y=mean, geom="point", size =3, alpha=0.5) + geom_jitter()
+#+ facet_grid (~Time)
+
+
+```
+
+# YII by fragments over time
+
+```{r GraphsFrag, echo =FALSE}
+YII_Frag <- ggplot(Ssid.Tall, aes (Time, YII))
+YII_Frag + geom_point() + facet_wrap (~Treatment)
+
+library(lattice)
+xyplot(YII ~ Time | Treatment, data=Acer.Tall, type=c("p", "r"), ylim=c(0.0, 0.7))
+```
+
+
+```{r StatsForTreattmentandTime}
+
+YII_Bott <- ggplot(Acer.Tall, aes (Time, YII, colour=factor(Treatment)))
+YII_Bott + stat_summary(fun.data = "mean_cl_boot",geom = "errorbar", width = 0.2)+
+  stat_summary(fun.y=mean, geom="point", size =3, alpha=0.5) +
+  stat_summary(fun.y=mean, geom="line")
+  # geom_jitter()+
+
+
+Acer.Tall$Treatment <- as.factor(Acer.Tall$Treatment)
+Acer.Tall$Time <- as.factor(Acer.Tall$Time)
+
+library(multcomp)
+library(multcompView)
+library(lsmeans)
+
+
+LM_Treatment <- lm(YII ~ Treatment, data= Acer.Tall)
+
+LM_Time <-lm(YII ~ Time, data = Acer.Tall)
+
+LM_Tre_Time <- lm(YII ~ Time * Treatment, data=Acer.Tall)
+
+anova(LM_Treatment)
+TukeyHSD(aov(LM_Treatment))
+
+anova(LM_Time)
+TukeyHSD(aov(LM_Time))
+
+anova(LM_Tre_Time)
+# TukeyHSD(aov(LM_Tre_Time))
+
+#  cld from multicom  set a compact letter display of all pair-wise comparisons.
+cld(lsmeans(LM_Treatment, "Treatment"))
+cld(lsmeans(LM_Time, "Time"))
+cld(lsmeans(LM_Tre_Time, specs = c("Treatment", "Time")))
+
+```
+
+# Changes bt time points 
+
+```{r ChangePerTime, echo =FALSE}
+Acer.wide$Change1<-((Acer.wide$YII_1)-(Acer.wide$YII_0))
+Acer.wide$Change2<-((Acer.wide$YII_2)-(Acer.wide$YII_1))
+Acer.wide$Change3<-((Acer.wide$YII_2)-(Acer.wide$YII_0))
+
+
+YII_Change1 <- ggplot(Acer.wide, aes (Treatment, Change1, colour=factor(Treatment)))
+YII_Change1 + stat_summary(fun.data = "mean_cl_boot",geom = "errorbar", width = 0.2)+
+  stat_summary(fun.y=mean, geom="point", size =3, alpha=0.5) +
+  geom_jitter()
+
+YII_Change2 <- ggplot(Acer.wide, aes (Treatment, Change2, colour=factor(Treatment)))
+YII_Change2 + stat_summary(fun.data = "mean_cl_boot",geom = "errorbar", width = 0.2)+
+  stat_summary(fun.y=mean, geom="point", size =3, alpha=0.5) +
+  geom_jitter()
+
+YII_Change3 <- ggplot(Acer.wide, aes (Treatment, Change3, colour=factor(Treatment)))
+YII_Change3 + stat_summary(fun.data = "mean_cl_boot",geom = "errorbar", width = 0.2)+
+  stat_summary(fun.y=mean, geom="point", size =3, alpha=0.5) +
+  geom_jitter()
+
+```

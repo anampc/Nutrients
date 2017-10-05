@@ -1,0 +1,12 @@
+# R and R studio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+
+# Other files
+*.pdf
+*.html
+*.JPG
+

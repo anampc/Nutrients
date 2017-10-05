@@ -1,0 +1,326 @@
+Time,Date,Treatment,Genotype,Fragment,Picture,Fra.pic,File 
+0,2017-07-26,Control,Red and Yellow,101,13,1,13.csv
+0,2017-07-26,Control,Red and Yellow,102,13,2,13.csv
+0,2017-07-26,Control,Red and Yellow,103,13,3,13.csv
+0,2017-07-26,Control,Red and Yellow,104,13,4,13.csv
+0,2017-07-26,Control,Red and Yellow,105,13,5,13.csv
+0,2017-07-26,N,Red and Yellow,106,14,1,14.csv
+0,2017-07-26,N,Red and Yellow,107,14,2,14.csv
+0,2017-07-26,N,Red and Yellow,108,14,3,14.csv
+0,2017-07-26,N,Red and Yellow,109,14,4,14.csv
+0,2017-07-26,N,Red and Yellow,110,14,5,14.csv
+0,2017-07-26,NP,Red and Yellow,111,15,1,15.csv
+0,2017-07-26,NP,Red and Yellow,112,15,2,15.csv
+0,2017-07-26,NP,Red and Yellow,113,15,3,15.csv
+0,2017-07-26,NP,Red and Yellow,114,15,4,15.csv
+0,2017-07-26,NP,Red and Yellow,115,15,5,15.csv
+0,2017-07-26,Control,Red and Yellow,201,16,1,16.csv
+0,2017-07-26,Control,Red and Yellow,202,16,2,16.csv
+0,2017-07-26,Control,Red and Yellow,203,16,3,16.csv
+0,2017-07-26,Control,Red and Yellow,204,16,4,16.csv
+0,2017-07-26,Control,Red and Yellow,205,16,5,16.csv
+0,2017-07-26,N,Red and Yellow,206,17,1,17.csv
+0,2017-07-26,N,Red and Yellow,207,17,2,17.csv
+0,2017-07-26,N,Red and Yellow,208,17,3,17.csv
+0,2017-07-26,N,Red and Yellow,209,17,4,17.csv
+0,2017-07-26,N,Red and Yellow,210,17,5,17.csv
+0,2017-07-26,NP,Red and Yellow,211,18,1,18.csv
+0,2017-07-26,NP,Red and Yellow,212,18,2,18.csv
+0,2017-07-26,NP,Red and Yellow,213,18,3,18.csv
+0,2017-07-26,NP,Red and Yellow,214,18,4,18.csv
+0,2017-07-26,NP,Red and Yellow,215,18,5,18.csv
+0,2017-07-26,Extra,Red and Yellow,300,18,6,18.csv
+0,2017-07-26,Control,Green and Orange,116,31,1,31.csv
+0,2017-07-26,Control,Green and Orange,117,31,2,31.csv
+0,2017-07-26,Control,Green and Orange,118,31,3,31.csv
+0,2017-07-26,Control,Green and Orange,119,31,4,31.csv
+0,2017-07-26,Control,Green and Orange,120,31,5,31.csv
+0,2017-07-26,N,Green and Orange,121,32,1,32.csv
+0,2017-07-26,N,Green and Orange,122,32,2,32.csv
+0,2017-07-26,N,Green and Orange,123,32,3,32.csv
+0,2017-07-26,N,Green and Orange,124,32,4,32.csv
+0,2017-07-26,N,Green and Orange,125,32,5,32.csv
+0,2017-07-26,NP,Green and Orange,126,33,1,33.csv
+0,2017-07-26,NP,Green and Orange,127,33,2,33.csv
+0,2017-07-26,NP,Green and Orange,128,33,3,33.csv
+0,2017-07-26,NP,Green and Orange,129,33,4,33.csv
+0,2017-07-26,NP,Green and Orange,130,33,5,33.csv
+0,2017-07-26,Control,Green and Orange,216,34,1,34.csv
+0,2017-07-26,Control,Green and Orange,217,34,2,34.csv
+0,2017-07-26,Control,Green and Orange,218,34,3,34.csv
+0,2017-07-26,Control,Green and Orange,219,34,4,34.csv
+0,2017-07-26,Control,Green and Orange,220,34,5,34.csv
+0,2017-07-26,N,Green and Orange,221,35,1,35.csv
+0,2017-07-26,N,Green and Orange,222,35,2,35.csv
+0,2017-07-26,N,Green and Orange,223,35,3,35.csv
+0,2017-07-26,N,Green and Orange,224,35,4,35.csv
+0,2017-07-26,N,Green and Orange,225,35,5,35.csv
+0,2017-07-26,NP,Green and Orange,226,36,1,36.csv
+0,2017-07-26,NP,Green and Orange,227,36,2,36.csv
+0,2017-07-26,NP,Green and Orange,228,36,3,36.csv
+0,2017-07-26,NP,Green and Orange,229,36,4,36.csv
+0,2017-07-26,NP,Green and Orange,230,36,5,36.csv
+0,2017-07-26,Extra,Green and Orange,200,36,6,36.csv
+0,2017-07-26,Control,Yellow,131,24,1,24.csv
+0,2017-07-26,Control,Yellow,132,24,2,24.csv
+0,2017-07-26,Control,Yellow,133,24,3,24.csv
+0,2017-07-26,Control,Yellow,134,24,4,24.csv
+0,2017-07-26,Control,Yellow,135,24,5,24.csv
+0,2017-07-26,N,Yellow,136,25,1,25.csv
+0,2017-07-26,N,Yellow,137,25,2,25.csv
+0,2017-07-26,N,Yellow,138,25,3,25.csv
+0,2017-07-26,N,Yellow,139,25,4,25.csv
+0,2017-07-26,N,Yellow,140,25,5,25.csv
+0,2017-07-26,NP,Yellow,141,26,1,26.csv
+0,2017-07-26,NP,Yellow,142,26,2,26.csv
+0,2017-07-26,NP,Yellow,143,26,3,26.csv
+0,2017-07-26,NP,Yellow,144,26,4,26.csv
+0,2017-07-26,NP,Yellow,145,26,5,26.csv
+0,2017-07-26,Control,Yellow,231,27,1,27.csv
+0,2017-07-26,Control,Yellow,232,27,2,27.csv
+0,2017-07-26,Control,Yellow,233,27,3,27.csv
+0,2017-07-26,Control,Yellow,234,27,4,27.csv
+0,2017-07-26,Control,Yellow,235,27,5,27.csv
+0,2017-07-26,N,Yellow,236,28,1,28.csv
+0,2017-07-26,N,Yellow,237,28,2,28.csv
+0,2017-07-26,N,Yellow,238,28,3,28.csv
+0,2017-07-26,N,Yellow,239,28,4,28.csv
+0,2017-07-26,N,Yellow,240,28,5,28.csv
+0,2017-07-26,NP,Yellow,241,29,1,29.csv
+0,2017-07-26,NP,Yellow,242,30,2,30.csv
+0,2017-07-26,NP,Yellow,243,30,3,30.csv
+0,2017-07-26,NP,Yellow,244,30,4,30.csv
+0,2017-07-26,NP,Yellow,245,30,5,30.csv
+0,2017-07-26,Control,Orange,146,19,1,19.csv
+0,2017-07-26,Control,Orange,147,19,2,19.csv
+0,2017-07-26,Control,Orange,148,19,3,19.csv
+0,2017-07-26,Control,Orange,149,19,4,19.csv
+0,2017-07-26,Control,Orange,150,19,5,19.csv
+0,2017-07-26,N,Orange,151,20,1,20.csv
+0,2017-07-26,N,Orange,152,20,2,20.csv
+0,2017-07-26,N,Orange,153,20,3,20.csv
+0,2017-07-26,N,Orange,154,20,4,20.csv
+0,2017-07-26,N,Orange,155,20,5,20.csv
+0,2017-07-26,NP,Orange,156,21,1,21.csv
+0,2017-07-26,NP,Orange,157,21,2,21.csv
+0,2017-07-26,NP,Orange,158,21,3,21.csv
+0,2017-07-26,NP,Orange,159,21,4,21.csv
+0,2017-07-26,NP,Orange,160,21,5,21.csv
+0,2017-07-26,Control,Orange,246,22,1,22.csv
+0,2017-07-26,Control,Orange,247,22,2,22.csv
+0,2017-07-26,Control,Orange,248,22,3,22.csv
+0,2017-07-26,Control,Orange,249,22,4,22.csv
+0,2017-07-26,Control,Orange,250,22,5,22.csv
+0,2017-07-26,N,Orange,251,23,1,23.csv
+0,2017-07-26,N,Orange,252,23,2,23.csv
+0,2017-07-26,N,Orange,253,23,3,23.csv
+0,2017-07-26,N,Orange,254,23,4,23.csv
+0,2017-07-26,N,Orange,255,23,5,23.csv
+0,2017-07-26,NP,Orange,256,24,1,24.csv
+0,2017-07-26,NP,Orange,257,24,2,24.csv
+0,2017-07-26,NP,Orange,258,24,3,24.csv
+0,2017-07-26,NP,Orange,259,24,4,24.csv
+0,2017-07-26,NP,Orange,260,24,5,24.csv
+0,2017-07-26,Extra,Orange,299,24,6,24.csv
+0,2017-07-26,Control,Red and Orange,161,1,1,1.csv
+0,2017-07-26,Control,Red and Orange,162,1,2,1.csv
+0,2017-07-26,Control,Red and Orange,163,1,3,1.csv
+0,2017-07-26,Control,Red and Orange,164,1,4,1.csv
+0,2017-07-26,Control,Red and Orange,165,1,5,1.csv
+0,2017-07-26,N,Red and Orange,166,2,1,2.csv
+0,2017-07-26,N,Red and Orange,167,2,2,2.csv
+0,2017-07-26,N,Red and Orange,168,2,3,2.csv
+0,2017-07-26,N,Red and Orange,169,2,4,2.csv
+0,2017-07-26,N,Red and Orange,170,2,5,2.csv
+0,2017-07-26,NP,Red and Orange,171,3,1,3.csv
+0,2017-07-26,NP,Red and Orange,172,3,2,3.csv
+0,2017-07-26,NP,Red and Orange,173,3,3,3.csv
+0,2017-07-26,NP,Red and Orange,174,3,4,3.csv
+0,2017-07-26,NP,Red and Orange,175,3,5,3.csv
+0,2017-07-26,Control,Red and Orange,261,4,1,4.csv
+0,2017-07-26,Control,Red and Orange,262,4,2,4.csv
+0,2017-07-26,Control,Red and Orange,263,4,3,4.csv
+0,2017-07-26,Control,Red and Orange,264,4,4,4.csv
+0,2017-07-26,Control,Red and Orange,265,4,5,4.csv
+0,2017-07-26,N,Red and Orange,266,5,1,5.csv
+0,2017-07-26,N,Red and Orange,267,5,2,5.csv
+0,2017-07-26,N,Red and Orange,268,5,3,5.csv
+0,2017-07-26,N,Red and Orange,269,5,4,5.csv
+0,2017-07-26,N,Red and Orange,270,5,5,5.csv
+0,2017-07-26,NP,Red and Orange,271,6,1,6.csv
+0,2017-07-26,NP,Red and Orange,272,6,2,6.csv
+0,2017-07-26,NP,Red and Orange,273,6,3,6.csv
+0,2017-07-26,NP,Red and Orange,274,6,4,6.csv
+0,2017-07-26,NP,Red and Orange,275,6,5,6.csv
+0,2017-07-26,Control,Green,176,7,1,7.csv
+0,2017-07-26,Control,Green,177,7,2,7.csv
+0,2017-07-26,Control,Green,178,7,3,7.csv
+0,2017-07-26,Control,Green,179,7,4,7.csv
+0,2017-07-26,Control,Green,180,7,5,7.csv
+0,2017-07-26,N,Green,181,8,1,8.csv
+0,2017-07-26,N,Green,182,8,2,8.csv
+0,2017-07-26,N,Green,183,8,3,8.csv
+0,2017-07-26,N,Green,184,8,4,8.csv
+0,2017-07-26,N,Green,185,8,5,8.csv
+0,2017-07-26,NP,Green,186,9,1,9.csv
+0,2017-07-26,NP,Green,187,9,2,9.csv
+0,2017-07-26,NP,Green,188,9,3,9.csv
+0,2017-07-26,NP,Green,189,9,4,9.csv
+0,2017-07-26,NP,Green,190,9,5,9.csv
+0,2017-07-26,Control,Green,276,10,1,10.csv
+0,2017-07-26,Control,Green,277,10,2,10.csv
+0,2017-07-26,Control,Green,278,10,3,10.csv
+0,2017-07-26,Control,Green,279,10,4,10.csv
+0,2017-07-26,Control,Green,280,10,5,10.csv
+0,2017-07-26,N,Green,281,11,1,11.csv
+0,2017-07-26,N,Green,282,11,2,11.csv
+0,2017-07-26,N,Green,283,11,3,11.csv
+0,2017-07-26,N,Green,284,11,4,11.csv
+0,2017-07-26,N,Green,285,11,5,11.csv
+0,2017-07-26,NP,Green,286,12,1,12.csv
+0,2017-07-26,NP,Green,287,12,2,12.csv
+0,2017-07-26,NP,Green,288,12,3,12.csv
+0,2017-07-26,NP,Green,289,12,4,12.csv
+0,2017-07-26,NP,Green,290,12,5,12.csv
+0,2017-07-26,Aquaria,Aquaria,F6,37,1,37.csv
+0,2017-07-26,Aquaria,Aquaria,M635,37,2,37.csv
+0,2017-07-26,Aquaria,Aquaria,Bla,37,3,37.csv
+1,2017-08-30,,Red and Yellow,101,1,1,1.csv
+1,2017-08-30,,Red and Yellow,102,1,2,1.csv
+1,2017-08-30,,Red and Yellow,103,1,3,1.csv
+1,2017-08-30,,Red and Yellow,104,1,4,1.csv
+1,2017-08-30,,Red and Yellow,105,1,5,1.csv
+1,2017-08-30,,Red and Yellow,106,1,6,1.csv
+1,2017-08-30,,Red and Yellow,107,1,7,1.csv
+1,2017-08-30,,Red and Yellow,108,1,8,1.csv
+1,2017-08-30,,Red and Yellow,109,1,9,1.csv
+1,2017-08-30,,Red and Yellow,110,1,10,1.csv
+1,2017-08-30,,Green and Orange,116,2,1,2.csv
+1,2017-08-30,,Green and Orange,117,2,2,2.csv
+1,2017-08-30,,Green and Orange,118,2,3,2.csv
+1,2017-08-30,,Green and Orange,119,2,4,2.csv
+1,2017-08-30,,Green and Orange,120,2,5,2.csv
+1,2017-08-30,,Green and Orange,121,2,6,2.csv
+1,2017-08-30,,Green and Orange,122,2,7,2.csv
+1,2017-08-30,,Green and Orange,123,2,8,2.csv
+1,2017-08-30,,Green and Orange,124,3,1,3.csv
+1,2017-08-30,,Green and Orange,125,3,2,3.csv
+1,2017-08-30,,Green and Orange,126,3,3,3.csv
+1,2017-08-30,,Green and Orange,128,3,4,3.csv
+1,2017-08-30,,Green and Orange,129,3,5,3.csv
+1,2017-08-30,,Green and Orange,130,4,1,4.csv
+1,2017-08-30,,F,136,4,2,4.csv
+1,2017-08-30,,F,137,4,3,4.csv
+1,2017-08-30,,F,138,4,4,4.csv
+1,2017-08-30,,F,139,4,5,4.csv
+1,2017-08-30,,F,140,4,6,4.csv
+1,2017-08-30,,F,141,4,7,4.csv
+1,2017-08-30,,F,142,4,8,4.csv
+1,2017-08-30,,Yellow,143,5,1,5.csv
+1,2017-08-30,,Yellow,144,5,2,5.csv
+1,2017-08-30,,Yellow,145,5,3,5.csv
+1,2017-08-30,,F,146,5,4,5.csv
+1,2017-08-30,,Orange,149,5,5,5.csv
+1,2017-08-30,,Orange,150,5,6,5.csv
+1,2017-08-30,,Orange,151,5,7,5.csv
+1,2017-08-30,,Orange,152,5,8,5.csv
+1,2017-08-30,,Orange,154,6,1,6.csv
+1,2017-08-30,,Orange,155,6,2,6.csv
+1,2017-08-30,,Orange,157,6,3,6.csv
+1,2017-08-30,,Orange,158,6,4,6.csv
+1,2017-08-30,,Orange,159,6,5,6.csv
+1,2017-08-30,,Orange,160,6,6,6.csv
+1,2017-08-30,,Red and Orange,162,6,7,6.csv
+1,2017-08-30,,Red and Orange,164,6,8,6.csv
+1,2017-08-30,,Red and Orange,165,6,9,6.csv
+1,2017-08-30,,Red and Orange,166,7,1,7.csv
+1,2017-08-30,,Red and Orange,167,7,2,7.csv
+1,2017-08-30,,Red and Orange,168,7,3,7.csv
+1,2017-08-30,,Red and Orange,169,7,4,7.csv
+1,2017-08-30,,Red and Orange,170,7,5,7.csv
+1,2017-08-30,,Red and Orange,171,7,6,7.csv
+1,2017-08-30,,Red and Orange,173,7,7,7.csv
+1,2017-08-30,,Red and Orange,174,8,1,8.csv
+1,2017-08-30,,Red and Orange,175,8,2,8.csv
+1,2017-08-30,,Green,176,8,3,8.csv
+1,2017-08-30,,Green,177,8,4,8.csv
+1,2017-08-30,,Green,178,8,5,8.csv
+1,2017-08-30,,Green,179,8,6,8.csv
+1,2017-08-30,,Green,180,8,7,8.csv
+1,2017-08-30,,Green,181,8,8,8.csv
+1,2017-08-30,,Green,182,8,9,8.csv
+1,2017-08-30,,Green,183,8,10,8.csv
+1,2017-08-30,,Green,184,9,1,9.csv
+1,2017-08-30,,Green,186,9,2,9.csv
+1,2017-08-30,,Green,187,9,3,9.csv
+1,2017-08-30,,Green,188,9,4,9.csv
+1,2017-08-30,,Green,189,9,5,9.csv
+1,2017-08-30,,Green,190,9,6,9.csv
+1,2017-08-30,,F,191,9,7,9.csv
+1,2017-08-30,,F,192,9,8,9.csv
+1,2017-08-30,,Red and Yellow,204,9,9,9.csv
+1,2017-08-30,,Red and Yellow,206,10,1,10.csv
+1,2017-08-30,,Green and Orange,216,10,2,10.csv
+1,2017-08-30,,Green and Orange,217,10,3,10.csv
+1,2017-08-30,,Green and Orange,218,10,4,10.csv
+1,2017-08-30,,Green and Orange,219,10,5,10.csv
+1,2017-08-30,,Green and Orange,220,10,6,10.csv
+1,2017-08-30,,Green and Orange,221,10,7,10.csv
+1,2017-08-30,,Green and Orange,222,11,1,11.csv
+1,2017-08-30,,Green and Orange,223,11,2,11.csv
+1,2017-08-30,,Green and Orange,224,11,3,11.csv
+1,2017-08-30,,Green and Orange,225,11,4,11.csv
+1,2017-08-30,,Green and Orange,226,11,5,11.csv
+1,2017-08-30,,Green and Orange,227,11,6,11.csv
+1,2017-08-30,,Green and Orange,228,11,7,11.csv
+1,2017-08-30,,Green and Orange,229,11,8,11.csv
+1,2017-08-30,,Green and Orange,230,12,1,12.csv
+1,2017-08-30,,Yellow,231,12,2,12.csv
+1,2017-08-30,,Yellow,232,12,3,12.csv
+1,2017-08-30,,Yellow,233,12,4,12.csv
+1,2017-08-30,,Yellow,234,12,5,12.csv
+1,2017-08-30,,Yellow,235,12,6,12.csv
+1,2017-08-30,,F,236,12,7,12.csv
+1,2017-08-30,,F,237,12,8,12.csv
+1,2017-08-30,,F,238,12,9,12.csv
+1,2017-08-30,,F,239,12,10,12.csv
+1,2017-08-30,,F,240,13,1,13.csv
+1,2017-08-30,,F,241,13,2,13.csv
+1,2017-08-30,,F,242,13,3,13.csv
+1,2017-08-30,,Orange,246,13,4,13.csv
+1,2017-08-30,,Orange,247,13,5,13.csv
+1,2017-08-30,,Orange,248,13,6,13.csv
+1,2017-08-30,,Orange,249,13,7,13.csv
+1,2017-08-30,,Orange,250,13,8,13.csv
+1,2017-08-30,,F,256,13,9,13.csv
+1,2017-08-30,,Red and Orange,261,13,10,13.csv
+1,2017-08-30,,Red and Orange,262,14,1,14.csv
+1,2017-08-30,,Red and Orange,263,14,2,14.csv
+1,2017-08-30,,Red and Orange,264,14,3,14.csv
+1,2017-08-30,,Red and Orange,265,14,4,14.csv
+1,2017-08-30,,Red and Orange,266,14,5,14.csv
+1,2017-08-30,,Red and Orange,267,14,6,14.csv
+1,2017-08-30,,Red and Orange,268,14,7,14.csv
+1,2017-08-30,,Red and Orange,269,14,8,14.csv
+1,2017-08-30,,Red and Orange,270,14,9,14.csv
+1,2017-08-30,,Red and Orange,271,14,10,14.csv
+1,2017-08-30,,Red and Orange,272,15,1,15.csv
+1,2017-08-30,,Red and Orange,273,15,2,15.csv
+1,2017-08-30,,Red and Orange,274,15,3,15.csv
+1,2017-08-30,,Green,276,15,4,15.csv
+1,2017-08-30,,Green,277,15,5,15.csv
+1,2017-08-30,,Green,278,15,6,15.csv
+1,2017-08-30,,Green,280,15,7,15.csv
+1,2017-08-30,,Green,281,15,8,15.csv
+1,2017-08-30,,Green,282,15,9,15.csv
+1,2017-08-30,,Green,283,15,10,15.csv
+1,2017-08-30,,Green,284,16,1,16.csv
+1,2017-08-30,,Green,285,16,2,16.csv
+1,2017-08-30,,Green,286,16,3,16.csv
+1,2017-08-30,,Green,287,16,4,16.csv
+1,2017-08-30,,Green,288,16,5,16.csv
+1,2017-08-30,,Green,289,16,6,16.csv
+1,2017-08-30,,Green,290,16,7,16.csv
+1,2017-08-30,,F,291,16,8,16.csv
+1,2017-08-30,,Orange,299,16,9,16.csv
+1,2017-08-30,,Red and Yellow,300,16,10,16.csv
